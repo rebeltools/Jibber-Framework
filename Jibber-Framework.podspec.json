@@ -5,7 +5,9 @@
   "homepage": "http://rebel.tools/",
   "authors": "Rebel Tools",
   "source": {
-    "git": "https://github.com/rebel-tools/Jibber-Framework.git"
+    "git": "https://github.com/rebel-tools/Jibber-Framework.git",
+    "branch": "master",
+    "tag": "1.0"
   },
   "platforms": {
     "ios": "7.0"
