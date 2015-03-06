@@ -1,13 +1,13 @@
 {
   "name": "Jibber-Framework",
-  "version": "1.0",
+  "version": "1.0.1",
   "summary": "The Reveal SDK for iOS.",
   "homepage": "http://rebel.tools/",
   "authors": "Rebel Tools",
   "source": {
     "git": "https://github.com/rebel-tools/Jibber-Framework.git",
     "branch": "master",
-    "tag": "1.0"
+    "tag": "1.0.1"
   },
   "platforms": {
     "ios": "7.0"
