@@ -10,7 +10,7 @@ The framework for JSON Debugging tool [Jibber](http://www.rebel.tools). Jibber m
 
 Add the following to your [CocoaPods](http://cocoapods.org/) Podfile
 
-    pod 'Jibber-Framework', '~> 1.1', :configurations => ['Debug']
+    pod 'Jibber-Framework', '~> 1.2', :configurations => ['Debug']
 
 or clone as a git submodule,
 
