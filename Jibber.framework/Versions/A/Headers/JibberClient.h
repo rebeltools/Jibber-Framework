@@ -19,4 +19,7 @@ typedef NS_ENUM(NSInteger, JibberClientLoggingMode) {
 
 + (instancetype)sharedInstance;
 
+- (void)enable;
+- (void)disable;
+
 @end
